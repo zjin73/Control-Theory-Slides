@@ -6,7 +6,7 @@
 > - Classical Control Theory
 > - Modern Control Theory
 > - Foundational to System Identification
-> - Multi Agent
+> - Multi Agent System
 > - ...
 
 <!---
